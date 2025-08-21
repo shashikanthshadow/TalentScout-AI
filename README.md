@@ -111,11 +111,12 @@ Use encrypted databases, access control, and comply with GDPR/DPDP standards.
   - Pass `lang` into the system prompt and ask the model to reply in that language.
   - Optionally translate UI labels via a small dict: `{"en": {...}, "hi": {...}}`.
 - **Code sketch:**
-  ```python
+```python
   # In Streamlit sidebar
   lang = st.sidebar.selectbox("Language", ["en", "hi", "fr", "es"])
   st.session_state.lang = lang
 
   # In SYSTEM_PROMPT or API call
   system_preamble = SYSTEM_PROMPT + f"\nRespond in language code: {lang}."
+  
 ```
