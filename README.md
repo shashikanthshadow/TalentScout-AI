@@ -82,10 +82,11 @@ GEMINI_API_KEY=your_google_gemini_api_key_here
 ---
 
 ## ▶️ Run the Project
+```bash
 streamlit run app.py
-
-
+```
 App will open in your browser at: http://localhost:8501
+
 ---
 ## 🎥 Demo
 
@@ -94,6 +95,7 @@ Option 1: Record a short Loom
 
 Option 2: Deploy on Streamlit Cloud
  and share the live URL.
+ 
 ---
 ## 🔒 Data & Privacy
 
