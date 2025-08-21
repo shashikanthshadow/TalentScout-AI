@@ -88,13 +88,8 @@ streamlit run app.py
 App will open in your browser at: http://localhost:8501
 
 ---
-## 🎥 Demo
-
-Option 1: Record a short Loom
- walkthrough showing interaction.
-
-Option 2: Deploy on Streamlit Cloud
- and share the live URL.
+## 🎥 TalentScout-AI Demo
+![TalentScout-AI](assets/demo.gif)
  
 ---
 ## 🔒 Data & Privacy
