@@ -57,7 +57,7 @@ TalentScout AI│
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/talentscout-hiring-assistant.git
+git clone https://github.com/shashikanthshadow/TalentScout-AI.git
 cd talentscout-hiring-assistant
 ```
 
